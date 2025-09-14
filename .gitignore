@@ -1,0 +1,25 @@
+# Data directories
+data/
+NSynth-100/
+checkpoints/
+*.pth
+*.pkl
+
+# Large files
+*.wav
+*.mp3
+*.flac
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
