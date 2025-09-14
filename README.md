@@ -1,4 +1,4 @@
-# Few-shot Class-incremental Audio Classification Using Dynamically Expanded Classifier with Self-attention Modified Prototypes
+# FCAC Using Dynamically Expanded Classifier with Self-attention Modified Prototypes————Project Reproduction Work
 
 This repository contains the introductions to the datasets and codes used in our paper, titled "Few-shot Class-incremental Audio Classification Using Dynamically Expanded Classifier with Self-attention Modified Prototypes
 " (as shown in the section of Citation).
